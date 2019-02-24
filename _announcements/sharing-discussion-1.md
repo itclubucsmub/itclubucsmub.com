@@ -6,7 +6,6 @@ date: 2018-02-05 00:00:00 +0630
 tags: []
 banner_image: ''
 related_posts: []
-published: false
 
 ---
 8/2/2018 (ၾကာသပေတး) မွာ  
