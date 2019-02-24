@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/02/24/home.jpg"
+banner_image: "img/home.png"
 layout: landing-page
 heading: IT Club
 partners: false
