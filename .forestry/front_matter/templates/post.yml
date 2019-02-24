@@ -40,6 +40,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _events/knowledge-sharing.md
 - _announcements/knowledge-sharing.md
 - _announcements/sharing-discussion.md
 - _announcements/sharing-discussion-1.md
