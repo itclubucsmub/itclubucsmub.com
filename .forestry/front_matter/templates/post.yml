@@ -40,4 +40,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _events/introduction-it-club.md
 - _announcements/introduction-it-club.md
