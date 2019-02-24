@@ -16,7 +16,7 @@
             <div class="col-wrap">
                 <h2>Latest Announcements</h2>
                 <ul class="posts">
-                    {% for announcement in site.announcements limit:3 %}
+                    {% for announcement in site.announcements limit:3 reversed %}
                     <li>
                         <a href="{{ announcement.url | absolute_url }}">{{ announcement.title }}</a>
                         <date>{{ announcement.date | date_to_string }}</date>
