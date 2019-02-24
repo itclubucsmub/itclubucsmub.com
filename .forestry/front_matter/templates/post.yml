@@ -39,7 +39,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/Events/knowledge-sharing-it-club-1.md
-- _posts/Events/knowledge-sharing-it-club.md
-- _posts/hello-world.md
