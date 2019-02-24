@@ -39,5 +39,6 @@ gems:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-sitemap
 
-  
+url: "https://itclub.netlify.com" # the base hostname & protocol for your site for sitemap
