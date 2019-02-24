@@ -11,7 +11,7 @@ services:
 - description: We are sharing each other what we know.
   heading: We Share
   icon: "/uploads/2019/02/24/network.png"
-sub_heading: Student based association in University of Computer Studies (Maubin))
+sub_heading: Student based association in University of Computer Studies (Maubin)
 textline: Student Based Association
 hero_button:
   text: Learn more
