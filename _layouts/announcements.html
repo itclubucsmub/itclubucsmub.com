@@ -2,8 +2,8 @@
 layout: default
 ---
 {% comment %}
-	This layout is used to by announcements.md to display all of documents in
-	the _announcements/ collection
+This layout is used to by announcements.md to display all of documents in
+the _announcements/ collection
 {% endcomment %}
 
 {% include breadcrumbs.html %}
@@ -13,15 +13,17 @@ layout: default
 		<div class="content">
 			<div class="grid-layout">
 				<div class="container pure-g">
-					{% for announcement in site.announcements %}
+					{% assign items = site.announcements | sort: 'date' | reverse %}
+					{% for announcement in items %}
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
-							{% if announcement.banner_image and announcement.banner_image != "" %}
-							<img src="{{ announcement.banner_image | absolute_url }}" alt="{{ announcement.title }}">
-							{% else %}
+								{% if announcement.banner_image and announcement.banner_image != "" %}
+								<img src="{{ announcement.banner_image | absolute_url }}"
+									alt="{{ announcement.title }}">
+								{% else %}
 								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ announcement.title }}">
-							{% endif %}
+								{% endif %}
 							</div>
 							<div class="card-body">
 								<h3><a href="{{ announcement.url | absolute_url }}">{{ announcement.title }}</a></h3>
