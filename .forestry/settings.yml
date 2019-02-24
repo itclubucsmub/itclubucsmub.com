@@ -31,6 +31,14 @@ sections:
   match: "*"
   templates:
   - project
+  
+- type: directory
+  path: _events
+  label: Events
+  create: all
+  match: "*"
+  templates:
+  - events
 - type: document
   path: _data/information.yml
   label: Contact Information
