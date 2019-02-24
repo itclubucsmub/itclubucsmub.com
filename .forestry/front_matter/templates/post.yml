@@ -40,4 +40,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/Events/knowledge-sharing-it-club.md
 - _posts/hello-world.md
