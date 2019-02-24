@@ -3,18 +3,14 @@ title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: IT Club
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: We, IT Club, are always learning new things & improving our skills.
   heading: We Learn
   icon: "/uploads/2019/02/24/open-book.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: We are sharing each other what we know.
+  heading: We Share
+  icon: "/uploads/2019/02/24/network.png"
 sub_heading: Student based association in University of Computer Studies (Maubin))
 textline: |-
   IT Club - UCS Maubin.
