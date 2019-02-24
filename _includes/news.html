@@ -14,9 +14,10 @@
         </div>
         <div class="pure-u-1 pure-u-md-1-2">
             <div class="col-wrap">
-                <h2>Latest Announcements</h2>
+                <h2>Announcements</h2>
                 <ul class="posts">
-                    {% for announcement in site.announcements limit:2 %}
+                    {% assign items = site.announcements | sort: 'date' %}
+                    {% for announcement in items limit:2  %}    
                     <li>
                         <a href="{{ announcement.url | absolute_url }}">{{ announcement.title }}</a>
                         <date>{{ announcement.date | date_to_string }}</date>
