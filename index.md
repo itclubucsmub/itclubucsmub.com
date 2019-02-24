@@ -3,7 +3,7 @@ title: Home
 banner_image: "/uploads/2019/02/24/home.jpg"
 layout: landing-page
 heading: IT Club
-partners: []
+partners: false
 services:
 - description: We, IT Club, are always learning new things & improving our skills.
   heading: We Learn
@@ -18,7 +18,6 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
-partners: false
 menu:
   navigation:
     identifier: _index
