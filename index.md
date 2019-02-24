@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/02/24/home.jpg"
 layout: landing-page
 heading: IT Club
 partners: []
@@ -12,10 +12,7 @@ services:
   heading: We Share
   icon: "/uploads/2019/02/24/network.png"
 sub_heading: Student based association in University of Computer Studies (Maubin))
-textline: |-
-  IT Club - UCS Maubin.
-
-  Student based association in University of Computer Studies (Maubin)
+textline: Student Based Association
 hero_button:
   text: Learn more
   href: "/about"
