@@ -40,6 +40,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _announcements/knowledge-sharing-1.md
 - _events/introduction-knowledge-sharing-program.md
 - _announcements/reintroduction-sharing.md
 - _announcements/new-it-club-logo.md
