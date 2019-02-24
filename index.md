@@ -18,6 +18,7 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
+partners: false
 menu:
   navigation:
     identifier: _index
