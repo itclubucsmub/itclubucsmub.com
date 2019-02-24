@@ -40,8 +40,8 @@ fields:
   hidden: true
   default: post
 pages:
-- _announcements/sharing-discussion-1.md
 - _announcements/sharing-discussion.md
+- _announcements/sharing-discussion-1.md
 - _announcements/it-club-မိတ္ဆက္.md
 - _events/introduction-it-club.md
 - _announcements/introduction-it-club.md
