@@ -3,7 +3,7 @@ title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: ''
 heading: About IT Club
-sub_heading: Story of IT Club
+sub_heading: ''
 layout: landing-page
 textline: Founded in December 2017.
 publish_date: 2017-12-01 04:00:00 +0000
