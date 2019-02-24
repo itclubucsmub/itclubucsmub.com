@@ -28,4 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/c-map.md
 - _projects/smart-restaurant.md
