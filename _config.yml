@@ -1,6 +1,6 @@
 title: IT Club - University of Computer Studies (Maubin)
 short_title: IT Club
-description: Student Based Association
+description: IT Club. Student Based Association. We all share our knowledge & experiences each other to become preeminent students & successful computer scientists/technologists in IT World. Founded in December 2017. Located in University of Computer Studies (Maubin)
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -19,6 +19,9 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+  events:
+    output: true
+    permalink: "/events/:path/"
   projects:
     output: true
     permalink: "/projects/:path/"
