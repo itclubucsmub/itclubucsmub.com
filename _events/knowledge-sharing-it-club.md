@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Knowledge Sharing - IT Club
+tags:
+- sharing
 sub_heading: by U Si Thu Aung and U Yan Naing Myint
 date: 2019-02-03 17:30:00 +0000
 tags: []
 banner_image: ''
-related_posts: []
+slug: ''
 
 ---
 Knowledge Sharing - IT Club
