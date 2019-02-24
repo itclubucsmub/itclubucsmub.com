@@ -39,6 +39,15 @@ sections:
   match: "*"
   templates:
   - events
+
+- type: directory
+  path: _announcements
+  label: Events
+  create: all
+  match: "*"
+  templates:
+  - announcements
+
 - type: document
   path: _data/information.yml
   label: Contact Information

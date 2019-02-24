@@ -8,7 +8,7 @@ menu:
   footer:
   navigation:
     identifier: _posts
-    weight: 5
+    weight: 6
   footer:
     identifier: _posts
     weight: 3

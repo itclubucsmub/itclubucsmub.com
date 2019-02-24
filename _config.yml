@@ -22,6 +22,9 @@ collections:
   events:
     output: true
     permalink: "/events/:path/"
+  announcements:
+    output: true
+    permalink: "/announcements/:path/"
   projects:
     output: true
     permalink: "/projects/:path/"

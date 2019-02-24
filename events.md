@@ -10,5 +10,5 @@ menu:
     weight: 2
   navigation:
     identifier: _events
-    weight: 3
+    weight: 4
 ---
