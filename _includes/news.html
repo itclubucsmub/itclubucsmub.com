@@ -16,7 +16,7 @@
             <div class="col-wrap">
                 <h2>Announcements</h2>
                 <ul class="posts">
-                    {% assign items = site.announcements | sort: 'date' %}
+                    {% assign items = site.announcements | sort: 'date' | reverse %}
                     {% for announcement in items limit:2  %}    
                     <li>
                         <a href="{{ announcement.url | absolute_url }}">{{ announcement.title }}</a>
