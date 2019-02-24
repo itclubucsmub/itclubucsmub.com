@@ -40,6 +40,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _announcements/reintroduction-sharing.md
 - _announcements/new-it-club-logo.md
 - _announcements/it-club-တာဝန္ခံ-ခန္႔အပ္ျခင္း.md
 - _events/knowledge-sharing.md
