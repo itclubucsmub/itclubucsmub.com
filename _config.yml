@@ -38,8 +38,6 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
-  - jekyll-sitemap
   - jekyll-seo-tag
 
-url: "https://itclub.ucsmub.edu.mm" # the base hostname & protocol for your site
   
