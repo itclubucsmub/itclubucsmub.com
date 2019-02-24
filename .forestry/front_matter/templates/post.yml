@@ -40,5 +40,6 @@ fields:
   hidden: true
   default: post
 pages:
+- _announcements/it-club-မိတ္ဆက္.md
 - _events/introduction-it-club.md
 - _announcements/introduction-it-club.md
