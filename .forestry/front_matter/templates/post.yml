@@ -40,6 +40,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _announcements/product-show-2019.md
 - _announcements/knowledge-sharing.md
 - _announcements/reintroduction-sharing.md
 - _events/introduction-knowledge-sharing-program.md
