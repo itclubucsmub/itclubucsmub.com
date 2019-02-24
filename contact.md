@@ -24,7 +24,7 @@ Github: [https://github.com/itclubucsmub](https://github.com/itclubucsmub)
 
 Twitter: [https://twitter.com/itclub_ucsmub](https://twitter.com/itclub_ucsmub)
 
-Facebook: [https://facebook.com/itclub.ucsmub](https://facebook.com/itclub.ucsmub)
+Facebook: [https://facebook.com/itclubucsmub](https://facebook.com/itclubucsmub)
 
 ## Contact Information
 
