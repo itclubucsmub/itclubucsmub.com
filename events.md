@@ -5,7 +5,7 @@ description: Events by IT Club
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:
-    identifier: _events_
+    identifier: _events
     url: "/events/"
     weight: 2
   navigation:
