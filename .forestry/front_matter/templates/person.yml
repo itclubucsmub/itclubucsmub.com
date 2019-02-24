@@ -37,6 +37,7 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/kaung-htut.md
 - _people/phyo-kaung-khant.md
 - _people/hein-htet-aung.md
 - _people/htet-aung-lin.md
