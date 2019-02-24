@@ -14,17 +14,17 @@
         </div>
         <div class="pure-u-1 pure-u-md-1-2">
             <div class="col-wrap">
-                <h2>Latest News</h2>
+                <h2>Latest Announcements</h2>
                 <ul class="posts">
-                    {% for post in site.posts limit:3 %}
+                    {% for announcement in site.announcements limit:3 %}
                     <li>
-                        <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-                        <date>{{ post.date | date_to_string }}</date>
-                        <date>{{ post.sub_heading }}</date>
+                        <a href="{{ announcement.url | absolute_url }}">{{ announcement.title }}</a>
+                        <date>{{ announcement.date | date_to_string }}</date>
+                        <date>{{ announcement.sub_heading }}</date>
                     </li>
                     {% endfor %}
                 </ul>
-                <a href="{{ "/posts/" | absolute_url }}" class="button-outline pure-button">More News <i class="fa fa-chevron-right"></i></a>
+                <a href="{{ "/announcements/" | absolute_url }}" class="button-outline pure-button">More <i class="fa fa-chevron-right"></i></a>
             </div>
         </div>
     </div>
