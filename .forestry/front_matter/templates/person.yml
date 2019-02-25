@@ -37,10 +37,10 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/htet-aung-lin.md
-- _people/hein-htet-aung.md
-- _people/phyo-kaung-khant.md
-- _people/kaung-myat-paing.md
-- _people/lu-min-aung.md
-- _people/wai-lin-kyaw.md
 - _people/kaung-htut.md
+- _people/wai-lin-kyaw.md
+- _people/lu-min-aung.md
+- _people/kaung-myat-paing.md
+- _people/phyo-kaung-khant.md
+- _people/hein-htet-aung.md
+- _people/htet-aung-lin.md
