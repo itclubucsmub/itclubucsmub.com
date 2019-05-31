@@ -1,1 +1,1 @@
-# itclub.ucsmub.edu.mm
+# itclubucsmub.com
