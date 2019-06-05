@@ -19,57 +19,12 @@
   <link rel="stylesheet" href="{{ "/css/main.min.css" | absolute_url }}">
 
   {% seo %}
+  
+  {% if page.title == 'Home' %}
+    {% include orgJSON.html %}
+  {% endif %}
 
-  <script type="application/ld+json">
-    { "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "IT Club",
-    "legalName" : "IT Club UCSMUB",
-    "url": "https://itclubucsmub.com",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/IT_Club_UCSMUB.jpg",
-    "foundingDate": "December 2017",
-    "founders": [
-      {
-      "@type": "Person",
-      "name": "Aung Ko Khant"
-      },
-      {
-        "@type": "Person",
-        "name": "Htet Aung Lin"
-      },
-      {
-        "@type": "Person",
-        "name": "Phyo Kaung Khant"
-        },
-      {
-        "@type": "Person",
-        "name": "Kaung Myat Paing"
-      },
-      {
-        "@type": "Person",
-        "name": "Hein Htet Aung"
-      }
-    ],
-    "address": {
-    "@type": "PostalAddress",
-    "streetAddress": " Seinmya Kanthar Street",
-    "addressLocality": "Maubin",
-    "addressRegion": "Ayeyarwady",
-    "postalCode": "10181",
-    "addressCountry": "MM"
-    },
-    "contactPoint": {
-    "@type": "ContactPoint",
-    "contactType": "Contact Us",
-    "telephone": "[+95 9 962 906346]",
-    "email": "itclub.ucsmub@gmail.com"
-    },
-    "sameAs": [
-    "https://github.com/itclubucsmub",
-    "http://www.facebook.com/itclubucsmub",
-    "http://www.twitter.com/itclub_ucsmub"
-    ]}
-   </script>
+
 </head>
 
 <body>
