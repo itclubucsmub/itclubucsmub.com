@@ -12,10 +12,6 @@ date: '2019-02-24T10:24:58.000+00:00'
 ---
 Personal website: [https://kaungmyatpaing.netlify.com](https://kaungmyatpaing.netlify.com)
 
-Facebook 
+Facebook [fb.me/kmyat.me](http://fb.me/kmyat.me "fbacc")
 
-[fb.me/kmyat.me](http://fb.me/kmyat.me "fbacc")
-
-Github
-
-[https://github.com/Kaung-myat-paing](https://github.com/Kaung-myat-paing "github")
+Github [https://github.com/Kaung-myat-paing](https://github.com/Kaung-myat-paing "github")
