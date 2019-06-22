@@ -27,6 +27,6 @@ fields:
   hidden: false
   default: ''
 pages:
-- _projects/c-map.md
-- _projects/exam-result.md
 - _projects/smart-restaurant.md
+- _projects/exam-result.md
+- _projects/c-map.md
