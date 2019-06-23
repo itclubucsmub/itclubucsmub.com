@@ -39,6 +39,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/seo-search-engine-optimization.md
 - _events/introduction-it-club.md
 - _announcements/sharing-discussion.md
 - _announcements/product-show-2019.md
