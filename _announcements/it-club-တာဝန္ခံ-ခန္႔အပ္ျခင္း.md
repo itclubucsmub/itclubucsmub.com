@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IT club တာဝန္ခံ ခန္႔အပ္ျခင္း
+title: IT club တာဝန်ခံ ခန့်အပ်ြခင်း
 sub_heading: ''
 date: 2019-02-12T17:30:00.000+00:00
 tags: []
