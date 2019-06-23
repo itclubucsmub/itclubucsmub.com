@@ -1,8 +1,8 @@
 ---
 layout: post
-title: IT Club မိတ္ဆက္
+title: IT Club မိတ်ဆက်
 sub_heading: ''
-date: 2017-12-23 00:00:00 +0630
+date: 2017-12-22T17:30:00.000+00:00
 tags: []
 banner_image: ''
 related_posts: []
