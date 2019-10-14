@@ -42,4 +42,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-url: "https://www.itclubucsmub.com" # the base hostname & protocol for your site for sitemap
+url: "https://itclubucsmub.netlify.com/" # the base hostname & protocol for your site for sitemap
