@@ -43,3 +43,5 @@ plugins:
   - jekyll-sitemap
 
 url: "https://itclubucsmub.netlify.com/" # the base hostname & protocol for your site for sitemap
+include:
+  - _redirects
